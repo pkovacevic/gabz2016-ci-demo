@@ -1,2 +1,2 @@
-# gabz2016-ci-demo
-Global Azure Bootcamp Zagreb - Continuous integration demo
+# Global Azure Bootcamp Zagreb 2016
+Continuous Integration with GitHub Demo
